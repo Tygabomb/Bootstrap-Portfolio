@@ -22,7 +22,7 @@
   .container {
 	max-width: 960px;
 	margin: 0 auto;
-	margin-top: -1.35%;
+	margin-top: -1.50%;
 	margin-bottom: -2%;
 	clear: both;
   }
@@ -42,8 +42,10 @@
 	font-family: 'Hind', sans-serif;
 	font-size: 18px; 
 	font-weight: 700;
-	color: #777;
-  }
+	color: #4aaaa5;
+	border-bottom: 3px solid #e9782d;
+	}
+	
   h1 {
 	padding-bottom: 20px;
 	font-size: 30px;
@@ -73,7 +75,6 @@
 	margin-top: 4.5%;
 	margin-left: -2%;
 	font-family: 'Hind', sans-serif;
-	font-size: 18px;
 	font-size: 30px;
 	font-weight: 700;
 	line-height: 200%;
